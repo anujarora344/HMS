@@ -63,6 +63,3 @@ This project is licensed under the MIT License.
 ## Acknowledgments
 Thanks to the MERN and Redux TailwindCSS communities for their amazing tools and resources.
 
-## Contact
-For any inquiries or issues, please contact [allsurej@gmail.com].
-
